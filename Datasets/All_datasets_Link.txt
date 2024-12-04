@@ -1,0 +1,5 @@
+https://jmcauley.ucsd.edu/data/amazon/
+
+https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
+
+https://labelbox.com/datasets/fashion-product-images-dataset/
